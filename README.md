@@ -4,8 +4,8 @@ Publiczny formularz webowy do zapisania raportu oceny stanu opon pojazdu. Projek
 
 ## Live demo
 
-- Live: `https://...`
-- Repo: `https://github.com/...`
+- Live: `https://tire-report-form.vercel.app/`
+- Repo: `https://github.com/asmd564/tire-report-form`
 
 ## Stack
 
