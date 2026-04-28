@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/formfield.tsx","./src/components/searchableselect.tsx","./src/components/tirecard.tsx","./src/lib/catalog.ts","./src/lib/formatters.ts","./src/lib/supabase.ts","./src/lib/validation.ts"],"version":"5.9.3"}
